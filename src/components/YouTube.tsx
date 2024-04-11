@@ -6,7 +6,7 @@ const YouTube: React.FC = () => {
     <div id="container-youtube">
       <h1>How is India?</h1>
       <p>Explore India&apos;s wonders for travel insights and adventures!</p>
-      <div id="outer-div">
+      {/* <div id="outer-div">
         <div className="inner-div">
           <iframe
             width="588"
@@ -31,7 +31,7 @@ const YouTube: React.FC = () => {
           ></iframe>
           <h3>INDIA - CINEMATIC FILM</h3>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };
