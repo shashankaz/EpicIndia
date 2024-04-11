@@ -1,0 +1,51 @@
+#app {
+  height: 100%;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+#container-travel {
+  padding: 70px;
+}
+
+#container-travel h1 {
+  font-size: 30px;
+  font-weight: 800;
+}
+
+#container-travel p {
+  font-size: 15px;
+  font-weight: 500;
+  padding-bottom: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  #container-travel {
+    padding: 50px;
+  }
+
+  #container-travel h1 {
+    font-size: 27px;
+  }
+
+  #container-travel p {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  #container-travel {
+    padding: 30px;
+  }
+
+  #container-travel h1 {
+    font-size: 24px;
+  }
+
+  #container-travel p {
+    font-size: 14px;
+  }
+}

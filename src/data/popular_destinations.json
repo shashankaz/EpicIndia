@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "slug": "taj-mahal-agra",
+      "heading": "Taj Mahal, Agra",
+      "description": "Iconic symbol of love with exquisite Mughal architecture.",
+      "image_url": "/travel-1.jpg"
+    },
+    {
+      "id": 2,
+      "slug": "goa",
+      "heading": "Goa",
+      "description": "Beautiful beaches, vibrant nightlife, and Portuguese heritage.",
+      "image_url": "/travel-2.jpg"
+    },
+    {
+      "id": 3,
+      "slug": "jaipur-rajasthan",
+      "heading": "Jaipur, Rajasthan",
+      "description": "Pink City with majestic forts, ornate palaces, and colorful markets.",
+      "image_url": "/travel-3.jpg"
+    },
+    {
+      "id": 4,
+      "slug": "kerala-backwaters",
+      "heading": "Kerala Backwaters",
+      "description": "Serene waterways, houseboat cruises, and lush greenery.",
+      "image_url": "/travel-4.jpg"
+    },
+    {
+      "id": 5,
+      "slug": "leh-ladakh-jammu-kashmir",
+      "heading": "Leh-Ladakh, Jammu and Kashmir",
+      "description": "Paradise for adventure with snow-capped mountains and Tibetan culture.",
+      "image_url": "/travel-5.jpg"
+    },
+    {
+      "id": 6,
+      "slug": "varanasi-uttar-pradesh",
+      "heading": "Varanasi, Uttar Pradesh",
+      "description": "Oldest city with spiritual significance along the Ganges River.",
+      "image_url": "/travel-6.jpg"
+    },
+    {
+      "id": 7,
+      "slug": "mumbai-maharashtra",
+      "heading": "Mumbai, Maharashtra",
+      "description": "Bustling city with iconic landmarks, Bollywood, and vibrant street food.",
+      "image_url": "/travel-7.jpg"
+    },
+    {
+      "id": 8,
+      "slug": "ranthambore-national-park-rajasthan",
+      "heading": "Ranthambore National Park, Rajasthan",
+      "description": "Famous for tiger sightings and wildlife safaris in natural habitats.",
+      "image_url": "/travel-8.jpg"
+    },
+    {
+      "id": 9,
+      "slug": "andaman-nicobar-islands",
+      "heading": "Andaman and Nicobar Islands",
+      "description": "Pristine beaches, coral reefs, and water sports in the Bay of Bengal.",
+      "image_url": "/travel-9.jpg"
+    }
+  ]
+}

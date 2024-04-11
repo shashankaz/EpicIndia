@@ -1,0 +1,88 @@
+#container-img {
+  padding: 70px;
+  background-color: #e6edfc;
+}
+
+#container-img h1 {
+  font-size: 30px;
+  font-weight: 800;
+}
+
+#container-img p {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+#container-img #img {
+  display: flex;
+  gap: 5px;
+  margin-top: 20px;
+  height: 100%;
+}
+
+#container-img #wrap {
+  overflow: hidden;
+  width: 33%;
+}
+
+#container-img #img1 {
+  border-radius: 10px 0 0 10px;
+}
+
+#container-img #img3 {
+  border-radius: 0 10px 10px 0;
+}
+
+#container-img #img1:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  transition: all 0.5s ease;
+}
+
+#container-img #img2:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  transition: all 0.5s ease;
+}
+
+#container-img #img3:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  transition: all 0.5s ease;
+}
+
+@media screen and (max-width: 768px) {
+  #container-img {
+    padding: 50px;
+  }
+
+  #container-img h1 {
+    font-size: 26px;
+  }
+
+  #container-img p {
+    font-size: 14px;
+  }
+
+  #container-img #img {
+    gap: 4px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  #container-img {
+    padding: 30px;
+  }
+
+  #container-img h1 {
+    font-size: 24px;
+  }
+
+  #container-img p {
+    font-size: 14px;
+  }
+
+  #container-img #img {
+    gap: 3px;
+  }
+}

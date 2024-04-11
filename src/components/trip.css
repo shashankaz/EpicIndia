@@ -1,0 +1,100 @@
+#container-trip {
+  padding: 70px;
+}
+
+#container-trip h1 {
+  font-size: 30px;
+  font-weight: 800;
+}
+
+#container-trip p {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+#container-trip #img {
+  margin-top: 20px;
+}
+
+#container-trip #wrap {
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+}
+
+#container-trip #taj {
+  border-radius: 10px;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+#container-trip #taj:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  transition: all 0.5s ease;
+}
+
+#container-trip button {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border: 2px solid #004de8;
+  border-radius: 10px;
+  font-size: 17px;
+  font-weight: 500;
+  color: #004de8;
+  padding: 10px 20px;
+  margin-top: 20px;
+}
+
+#container-trip button:hover {
+  cursor: pointer;
+  transition: all 0.5s ease;
+  background-color: #004de8;
+  color: #fff;
+}
+
+#container-trip button:hover #arrow {
+  rotate: -45deg;
+}
+
+@media screen and (max-width: 768px) {
+  #container-trip {
+    padding: 50px;
+  }
+
+  #container-trip h1 {
+    font-size: 27px;
+  }
+
+  #container-trip p {
+    font-size: 14px;
+  }
+
+  #container-trip button {
+    gap: 8px;
+    font-size: 16px;
+    padding: 9px 18px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  #container-trip {
+    padding: 30px;
+  }
+
+  #container-trip h1 {
+    font-size: 24px;
+  }
+
+  #container-trip p {
+    font-size: 14px;
+  }
+
+  #container-trip button {
+    gap: 8px;
+    font-size: 15px;
+    padding: 8px 16px;
+  }
+}

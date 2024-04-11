@@ -1,0 +1,75 @@
+#container-card {
+  width: 100%;
+  padding: 10px 0 20px;
+}
+
+#container-card #wrap {
+  overflow: hidden;
+  height: 300px;
+  width: 100%;
+}
+
+#container-card #img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+#container-card #img:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  transition: all 0.5s ease;
+}
+
+#container-card #title {
+  margin-top: 20px;
+  font-size: 25px;
+  font-weight: 800;
+}
+
+#container-card #title:hover {
+  text-decoration: underline;
+}
+
+#container-card #desc {
+  font-size: 15px;
+  font-weight: 500;
+  color: #888;
+}
+
+@media screen and (max-width: 768px) {
+  #container-card {
+    padding: 10px 0 20px;
+  }
+
+  #container-card #title {
+    font-size: 18px;
+  }
+
+  #container-card #desc {
+    font-size: 13.5px;
+  }
+
+  #container-card #wrap {
+    height: 225px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  #container-card {
+    padding: 10px 0 15px;
+  }
+
+  #container-card #title {
+    font-size: 16px;
+  }
+
+  #container-card #desc {
+    font-size: 12px;
+  }
+
+  #container-card #wrap {
+    height: 150px;
+  }
+}

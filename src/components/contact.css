@@ -1,0 +1,175 @@
+#container-contact {
+  padding: 70px;
+}
+
+#container-contact h1 {
+  font-size: 30px;
+  font-weight: 800;
+}
+
+#container-contact p {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+#container-contact #form {
+  width: 45%;
+}
+
+#container-contact #form > form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+#container-contact label {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+#container-contact input {
+  width: 100%;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+#container-contact textarea {
+  width: 100%;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+#container-contact #btn {
+  border: 2px solid #004de8;
+  border-radius: 10px;
+  font-size: 17px;
+  font-weight: 500;
+  color: #004de8;
+  padding: 10px 20px;
+  margin-top: 20px;
+  width: 40%;
+}
+
+#container-contact #btn:hover {
+  cursor: pointer;
+  transition: all 0.5s ease;
+  background-color: #004de8;
+  color: #fff;
+}
+
+#container-contact #content {
+  width: 100%;
+  padding: 40px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+#container-contact #wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  width: 45%;
+  height: 100%;
+}
+
+#container-contact #img {
+  width: 45%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+#container-contact #img:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  transition: all 0.5s ease;
+}
+
+@media screen and (max-width: 768px) {
+  #container-contact {
+    padding: 50px;
+  }
+
+  #container-contact h1 {
+    font-size: 26px;
+  }
+
+  #container-contact p {
+    font-size: 14px;
+  }
+
+  #container-contact #form {
+    width: 60%;
+  }
+
+  #container-contact #form > form {
+    gap: 15px;
+  }
+
+  #container-contact label {
+    font-size: 18px;
+  }
+
+  #container-contact #btn {
+    font-size: 16px;
+    padding: 8px 16px;
+  }
+
+  #container-contact #content {
+    flex-direction: column;
+  }
+
+  #container-contact #wrap {
+    width: 100%;
+  }
+
+  #container-contact #img {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  #container-contact {
+    padding: 30px;
+  }
+
+  #container-contact h1 {
+    font-size: 24px;
+  }
+
+  #container-contact p {
+    font-size: 14px;
+  }
+
+  #container-contact #form {
+    width: 100%;
+  }
+
+  #container-contact #form > form {
+    gap: 10px;
+  }
+
+  #container-contact label {
+    font-size: 16px;
+  }
+
+  #container-contact #btn {
+    font-size: 15px;
+    padding: 8px 16px;
+  }
+
+  #container-contact #content {
+    flex-direction: column;
+  }
+
+  #container-contact #wrap {
+    width: 100%;
+  }
+
+  #container-contact #img {
+    width: 100%;
+  }
+}

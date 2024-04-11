@@ -1,0 +1,53 @@
+#container-map {
+  padding: 70px;
+}
+
+#container-map h1 {
+  font-size: 30px;
+  font-weight: 800;
+}
+
+#container-map p {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+#container-map #map {
+  margin-top: 20px;
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+}
+
+#container-map #map > iframe {
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  #container-map {
+    padding: 50px;
+  }
+
+  #container-map h1 {
+    font-size: 26px;
+  }
+
+  #container-map p {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  #container-map {
+    padding: 30px;
+  }
+
+  #container-map h1 {
+    font-size: 24px;
+  }
+
+  #container-map p {
+    font-size: 14px;
+  }
+}

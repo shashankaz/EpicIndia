@@ -1,0 +1,76 @@
+{
+  "content": [
+    {
+      "category": "articles",
+      "id": 1,
+      "title": "Top 10 Must-Visit Destinations in India",
+      "description": "Explore India's diverse attractions from the Taj Mahal to Goa's beaches.",
+      "image_url": "/article-1.jpg",
+      "slug": "top-10-must-visit-destinations-in-india"
+    },
+    {
+      "category": "articles",
+      "id": 2,
+      "title": "Cuisine Delights: A Culinary Journey Through India",
+      "description": "Discover the rich flavors of Indian cuisine, from street food to regional specialties.",
+      "image_url": "/article-2.jpg",
+      "slug": "cuisine-delights-a-culinary-journey-through-india"
+    },
+    {
+      "category": "articles",
+      "id": 3,
+      "title": "Adventure Travel: Thrills and Excitement in Leh-Ladakh",
+      "description": "Experience trekking, rafting, and cultural immersion in the rugged landscapes of Ladakh.",
+      "image_url": "/article-3.jpg",
+      "slug": "adventure-travel-thrills-and-excitement-in-leh-ladakh"
+    },
+    {
+      "category": "guides",
+      "id": 4,
+      "title": "Ultimate Travel Guide to Kerala: Backwaters and Beyond",
+      "description": "Plan your trip to Kerala with insights on backwater cruises, hill stations, and cultural experiences.",
+      "image_url": "/guide-1.jpg",
+      "slug": "ultimate-travel-guide-to-kerala-backwaters-and-beyond"
+    },
+    {
+      "category": "guides",
+      "id": 5,
+      "title": "Historical Marvels: Exploring Rajasthan's Forts and Palaces",
+      "description": "Delve into Rajasthan's history and heritage with a guide to its iconic forts and royal palaces.",
+      "image_url": "/guide-2.jpg",
+      "slug": "historical-marvels-exploring-rajasthans-forts-and-palaces"
+    },
+    {
+      "category": "guides",
+      "id": 6,
+      "title": "City Escapes: Mumbai's Vibrant Culture and Coastal Charms",
+      "description": "Discover Mumbai's dynamic blend of history, Bollywood, and coastal delights in this city guide.",
+      "image_url": "/guide-3.jpg",
+      "slug": "city-escapes-mumbais-vibrant-culture-and-coastal-charms"
+    },
+    {
+      "category": "more",
+      "id": 7,
+      "title": "Solo Travel Tips: Navigating India's Cultural Landscape",
+      "description": "Insider tips and advice for solo travelers exploring India's diverse cultural tapestry.",
+      "image_url": "/more-1.jpg",
+      "slug": "solo-travel-tips-navigating-indias-cultural-landscape"
+    },
+    {
+      "category": "more",
+      "id": 8,
+      "title": "Family-Friendly Adventures: Unforgettable Experiences for All Ages",
+      "description": "Plan family trips with activities and destinations that cater to everyone, from kids to adults.",
+      "image_url": "/more-2.jpg",
+      "slug": "family-friendly-adventures-unforgettable-experiences-for-all-ages"
+    },
+    {
+      "category": "more",
+      "id": 9,
+      "title": "Offbeat Experiences: Hidden Gems and Unique Encounters in India",
+      "description": "Explore lesser-known destinations and experiences that offer a different perspective on India.",
+      "image_url": "/more-3.jpg",
+      "slug": "offbeat-experiences-hidden-gems-and-unique-encounters-in-india"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+#container-blog {
+  padding: 70px;
+  background-color: #e6edfc;
+}
+
+#container-blog h1 {
+  font-size: 30px;
+  font-weight: 800;
+}
+
+#container-blog p {
+  font-size: 15px;
+  font-weight: 500;
+  padding-bottom: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  #container-blog {
+    padding: 50px;
+  }
+
+  #container-blog h1 {
+    font-size: 26px;
+  }
+
+  #container-blog p {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  #container-blog {
+    padding: 30px;
+  }
+
+  #container-blog h1 {
+    font-size: 24px;
+  }
+
+  #container-blog p {
+    font-size: 14px;
+  }
+}
