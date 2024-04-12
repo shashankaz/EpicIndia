@@ -25,7 +25,7 @@ const page = () => {
 
           <h4>Author - 09/04/2024</h4>
 
-          <Fade cascade damping={0.05} triggerOnce>
+          <Fade cascade damping={0.01} triggerOnce>
             <p>
               Embarking on a culinary journey through India is akin to exploring
               a treasure trove of flavors, spices, and culinary traditions that

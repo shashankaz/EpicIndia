@@ -27,7 +27,7 @@ const page = () => {
 
           <h4>Author - 09/04/2024</h4>
 
-          <Fade cascade damping={0.05} triggerOnce>
+          <Fade cascade damping={0.01} triggerOnce>
             <p>
               Nestled amidst the majestic Himalayas, Leh-Ladakh is a paradise
               for adventure seekers, nature lovers, and those seeking a unique

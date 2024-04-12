@@ -26,7 +26,7 @@ const page = () => {
             Agra&apos;s Iconic Destination
           </h1>
 
-          <Fade cascade damping={0.05} triggerOnce>
+          <Fade cascade damping={0.01} triggerOnce>
             <p>
               The Taj Mahal stands as an epitome of timeless beauty and
               architectural brilliance, nestled in the heart of Agra, India.

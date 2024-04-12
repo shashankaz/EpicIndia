@@ -26,7 +26,7 @@ const page = () => {
             India&apos;s Festivals: A Tapestry of Culture and Celebration
           </h1>
 
-          <Fade cascade damping={0.05} triggerOnce>
+          <Fade cascade damping={0.01} triggerOnce>
             <p>
               India, often referred to as the land of festivals, is a vibrant
               tapestry of diverse cultures, traditions, and celebrations. From

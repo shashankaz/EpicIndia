@@ -27,7 +27,7 @@ const page = () => {
 
           <h4>Author - 09/04/2024</h4>
 
-          <Fade cascade damping={0.05} triggerOnce>
+          <Fade cascade damping={0.01} triggerOnce>
             <p>
               Mumbai, the bustling metropolis on India&apos;s western coast, is
               not just a city; it&apos;s an experience. From its vibrant culture

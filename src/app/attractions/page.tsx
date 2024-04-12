@@ -26,7 +26,7 @@ const page = () => {
             Exploring India: A Journey Through Its Diverse Attractions{" "}
           </h1>
 
-          <Fade cascade damping={0.05} triggerOnce>
+          <Fade cascade damping={0.01} triggerOnce>
             <p>
               India, a land of vibrant culture, rich history, and breathtaking
               landscapes, is a treasure trove of experiences waiting to be

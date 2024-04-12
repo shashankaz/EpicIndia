@@ -26,7 +26,7 @@ const page = () => {
             Vibrant Culture
           </h1>
 
-          <Fade cascade damping={0.05} triggerOnce>
+          <Fade cascade damping={0.01} triggerOnce>
             <p>
               Nestled in the heart of Rajasthan, Jaipur stands as a testament to
               India&apos;s rich history and cultural heritage. Known as the Pink

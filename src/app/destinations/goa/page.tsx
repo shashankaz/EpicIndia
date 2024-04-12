@@ -26,7 +26,7 @@ const page = () => {
             Western Coast
           </h1>
 
-          <Fade cascade damping={0.05} triggerOnce>
+          <Fade cascade damping={0.01} triggerOnce>
             <p>
               Nestled along the picturesque western coast of India lies Goa, a
               destination renowned for its pristine beaches, rich cultural

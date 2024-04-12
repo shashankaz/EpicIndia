@@ -26,7 +26,7 @@ const page = () => {
             Exploring the Rich Tapestry of Flavors in Indian Cuisine
           </h1>
 
-          <Fade cascade damping={0.05} triggerOnce>
+          <Fade cascade damping={0.01} triggerOnce>
             <p>
               India, with its vibrant cultural heritage and diverse landscapes,
               offers a culinary journey like no other. From the spicy aromas of

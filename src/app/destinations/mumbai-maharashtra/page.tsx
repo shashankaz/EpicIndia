@@ -12,7 +12,7 @@ const page = () => {
         <div id="header-destination">
           <Image
             id="destination"
-            src="/travel-1.jpg"
+            src="/travel-7.jpg"
             width={1000}
             height={1000}
             alt="Picture of the Taj Mahal in Agra, India"
@@ -22,124 +22,154 @@ const page = () => {
         </div>
         <div id="main-destination">
           <h1 id="title-destination">
-            Exploring the Timeless Beauty of the Taj Mahal: A Journey to
-            Agra&apos;s Iconic Destination
+            Mumbai: The Vibrant Heartbeat of Maharashtra
           </h1>
 
-          <Fade cascade damping={0.05} triggerOnce>
+          <Fade cascade damping={0.01} triggerOnce>
             <p>
-              The Taj Mahal stands as an epitome of timeless beauty and
-              architectural brilliance, nestled in the heart of Agra, India.
-              This magnificent monument, renowned as one of the Seven Wonders of
-              the World, beckons travelers from across the globe to witness its
-              grandeur and unravel the tales of love and craftsmanship woven
-              into its very fabric.
+              Mumbai, often referred to as the "City of Dreams," pulsates with
+              energy, diversity, and a rich tapestry of cultures. As the capital
+              city of Maharashtra, Mumbai stands as a beacon of opportunity,
+              creativity, and resilience. From bustling streets to iconic
+              landmarks, let's delve into the essence of Mumbai, exploring its
+              vibrant neighborhoods, historical treasures, culinary delights,
+              and the spirit that makes it one of India's most dynamic
+              destinations.
             </p>
-
-            <h1>A Glimpse into History</h1>
-
+            <h1>Vibrant Neighborhoods: A Melting Pot of Cultures</h1>
             <p>
-              Commissioned by the Mughal Emperor Shah Jahan in memory of his
-              beloved wife Mumtaz Mahal, the Taj Mahal is a testament to eternal
-              love and devotion. Its construction spanned over two decades,
-              beginning in 1632 and culminating in 1653, employing thousands of
-              artisans, craftsmen, and laborers. The result is a mausoleum that
-              transcends time, captivating visitors with its symmetrical beauty
-              and intricate details.
+              Mumbai's neighborhoods are a kaleidoscope of cultures, traditions,
+              and lifestyles, each offering a unique glimpse into the city's
+              vibrant soul.
             </p>
-
-            <h1>Architectural Marvels</h1>
-
+            <h3>Colaba: Gateway to Heritage</h3>
             <p>
-              The Taj Mahal&apos;s architectural brilliance is evident in its
-              meticulous design and exquisite craftsmanship. Built primarily
-              using white marble sourced from Rajasthan and embellished with
-              precious gemstones and intricate carvings, every aspect of the Taj
-              reflects the pinnacle of Mughal artistry.
+              Colaba, with its iconic Gateway of India, is a blend of historical
+              charm and modern allure. From heritage buildings to bustling
+              markets like Colaba Causeway, this neighborhood is a favorite
+              among tourists and locals alike.
             </p>
-
+            <h3>Bandra: Bohemian Chic</h3>
             <p>
-              The main structure, crowned by its iconic dome, is flanked by four
-              minarets that lean slightly outward to protect the monument from
-              potential earthquakes. The symmetry of the Taj Mahal is
-              awe-inspiring, with its reflection mirrored in the tranquil waters
-              of the adjacent Yamuna River, creating a breathtaking sight that
-              is especially mesmerizing during sunrise and sunset.
+              Bandra, known for its artistic vibe and trendy cafes, is a hub of
+              creativity and youth culture. The vibrant street art, designer
+              boutiques, and lively nightlife make Bandra a magnet for artists,
+              musicians, and fashion enthusiasts.
             </p>
-
-            <h1>Symbolism and Significance</h1>
-
+            <h3>Fort: Historical Splendor</h3>
             <p>
-              Beyond its architectural grandeur, the Taj Mahal holds deep
-              symbolic significance. It is not merely a mausoleum but a symbol
-              of undying love and devotion. The intricate inlay work and
-              calligraphy on its walls depict verses from the Quran and floral
-              motifs, symbolizing the beauty of paradise.
+              The Fort area is a treasure trove of colonial architecture,
+              including the majestic Chhatrapati Shivaji Maharaj Terminus (CST)
+              and the heritage buildings along Horniman Circle. Walking through
+              Fort is like stepping back in time to Mumbai's colonial era.
             </p>
-
+            <h1>Historical Treasures: Echoes of the Past</h1>
             <p>
-              Moreover, the Taj Mahal&apos;s location along the Yamuna River
-              adds to its allure, creating a serene and picturesque ambiance
-              that enhances the visitor&apos;s experience. Each aspect of its
-              design and placement reflects the Mughal belief in symmetry,
-              balance, and the harmony of nature.
+              Mumbai's history is etched in its monuments, museums, and
+              landmarks that narrate tales of bygone eras.
             </p>
-
-            <h1>Visitor Experience</h1>
-
+            <h3>
+              Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (formerly Prince of
+              Wales Museum)
+            </h3>
             <p>
-              Visiting the Taj Mahal is a transformative experience that leaves
-              an indelible mark on all who witness its beauty. The entry through
-              the grand gate, known as the Darwaza-i-Rauza, leads to the
-              expansive gardens known as the Charbagh, which symbolize the four
-              rivers of paradise in Islamic tradition.
+              This museum is a repository of art, history, and culture, housing
+              a diverse collection of artifacts, paintings, and sculptures that
+              showcase India's rich heritage.
             </p>
-
+            <h3>Elephanta Caves</h3>
             <p>
-              As visitors approach the main mausoleum, they are greeted by the
-              mesmerizing sight of the Taj Mahal in all its glory. Inside, the
-              central chamber houses the cenotaphs of Shah Jahan and Mumtaz
-              Mahal, adorned with intricate marble work and semi-precious
-              stones, showcasing the pinnacle of Mughal craftsmanship.
+              A short ferry ride from Mumbai takes you to the Elephanta Caves, a
+              UNESCO World Heritage Site renowned for its rock-cut temples and
+              sculptures dating back to the 5th century.
             </p>
-
-            <h1>Preservation Efforts and Challenges</h1>
-
+            <h3>Haji Ali Dargah</h3>
             <p>
-              While the Taj Mahal remains a symbol of enduring beauty, it faces
-              challenges related to pollution, environmental degradation, and
-              the impact of tourism. Efforts are underway to preserve this
-              architectural marvel, including measures to control air pollution,
-              limit visitor numbers, and ensure sustainable tourism practices.
+              The Haji Ali Dargah, located on an islet off the coast of Worli,
+              is a revered Islamic shrine and a symbol of Mumbai's religious
+              harmony.
             </p>
-
-            <h1>Beyond the Taj: Exploring Agra</h1>
-
+            <h1>Culinary Delights: Flavors of Mumbai</h1>
             <p>
-              A visit to Agra is incomplete without exploring its other
-              historical and cultural treasures. The Agra Fort, a UNESCO World
-              Heritage Site, offers insights into Mughal history and
-              architecture, with its imposing walls, royal palaces, and
-              panoramic views of the Taj Mahal.
+              Mumbai's culinary scene is a delightful fusion of street food,
+              coastal flavors, and global cuisines that tantalize the taste
+              buds.
             </p>
-
+            <h3>Street Food Extravaganza</h3>
             <p>
-              Additionally, the vibrant markets of Agra showcase the city&apos;s
-              rich heritage in arts and crafts, including exquisite marble work,
-              handcrafted textiles, and traditional cuisine that tantalizes the
-              senses.
+              From pav bhaji and vada pav to bhel puri and sev puri, Mumbai's
+              street food stalls offer a gastronomic adventure. Don't miss the
+              iconic cutting chai and delicious kebabs at Mohammad Ali Road
+              during Ramadan.
             </p>
-
-            <h1>Conclusion: A Timeless Journey</h1>
-
+            <h3>Coastal Delicacies</h3>
             <p>
-              In conclusion, the Taj Mahal stands as a timeless testament to
-              love, craftsmanship, and architectural splendor. Its allure
-              transcends borders and generations, inviting travelers to embark
-              on a journey of discovery and wonder. A visit to this iconic
-              destination not only unveils the secrets of the past but also
-              inspires a deeper appreciation for the enduring beauty of human
-              creativity.
+              Being a coastal city, Mumbai boasts of fresh seafood delights like
+              bombil fry, prawn curry, and Kolhapuri fish, best enjoyed at local
+              seafood joints near Juhu Beach or Colaba.
+            </p>
+            <h3>Global Flavors</h3>
+            <p>
+              With a diverse population, Mumbai caters to international palates
+              with a range of restaurants serving Italian, Chinese, Lebanese,
+              and other global cuisines. The Bandra-Kurla Complex (BKC) area is
+              known for its upscale dining experiences.
+            </p>
+            <h1>Iconic Landmarks: Symbols of Mumbai's Identity</h1>
+            <p>
+              Mumbai is dotted with iconic landmarks that define its skyline and
+              identity.
+            </p>
+            <h3>Marine Drive</h3>
+            <p>
+              The sweeping arc of Marine Drive, also known as the Queen's
+              Necklace, offers stunning views of the Arabian Sea and is a
+              favorite spot for evening strolls and leisurely moments.
+            </p>
+            <h3>Taj Mahal Palace Hotel</h3>
+            <p>
+              A symbol of luxury and heritage, the Taj Mahal Palace Hotel is an
+              architectural marvel that has hosted dignitaries, celebrities, and
+              discerning travelers for over a century.
+            </p>
+            <h3>Bollywood: The Entertainment Capital</h3>
+            <p>
+              Mumbai's connection with Bollywood, the Hindi film industry, is
+              legendary. Visit Film City for a glimpse into the magic of Indian
+              cinema or catch a movie at one of the iconic theaters like Liberty
+              or Regal.
+            </p>
+            <h1>Spirit of Mumbai: Resilience and Dynamism</h1>
+            <p>
+              Above all, Mumbai is known for its spirit of resilience, unity,
+              and dynamism, evident in its bustling markets, local trains, and
+              the never-ending buzz of activity.
+            </p>
+            <h3>Dabbawalas and Local Trains</h3>
+            <p>
+              The dabbawalas of Mumbai, known for their efficient lunchbox
+              delivery system, and the lifeline of the city—the local
+              trains—symbolize the hard work, efficiency, and interconnectedness
+              of Mumbai's residents.
+            </p>
+            <h3>Festivals and Celebrations</h3>
+            <p>
+              From Ganesh Chaturthi, when the city comes alive with vibrant
+              processions and elaborate decorations, to Diwali, Eid, and
+              Christmas, Mumbai celebrates diversity and festivals with fervor
+              and joy.
+            </p>
+            <h1>Conclusion: Embracing Mumbai's Diversity</h1>
+            <p>
+              In conclusion, Mumbai is a city of contrasts and diversity—a
+              melting pot where dreams are born, cultures converge, and life
+              pulsates with energy. Whether you're exploring its historical
+              landmarks, savoring its culinary delights, or experiencing the
+              spirit of resilience, Mumbai welcomes you with open arms and
+              leaves an indelible mark on your heart. As the vibrant heartbeat
+              of Maharashtra, Mumbai continues to inspire, entertain, and
+              enchant visitors from around the world, embodying the spirit of
+              India's economic capital and cultural kaleidoscope.
             </p>
           </Fade>
         </div>

@@ -27,7 +27,7 @@ const page = () => {
             Diversity
           </h1>
 
-          <Fade cascade damping={0.05} triggerOnce>
+          <Fade cascade damping={0.01} triggerOnce>
             <p>
               India, a land of immense diversity and historical richness, is
               renowned globally for its vibrant culture and deep-rooted

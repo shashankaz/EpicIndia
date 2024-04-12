@@ -27,7 +27,7 @@ const page = () => {
 
           <h4>Author - 09/04/2024</h4>
 
-          <Fade cascade damping={0.05} triggerOnce>
+          <Fade cascade damping={0.01} triggerOnce>
             <p>
               Traveling with family is a cherished opportunity to create lasting
               memories, bond with loved ones, and embark on exciting adventures

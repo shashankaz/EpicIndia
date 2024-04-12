@@ -27,7 +27,7 @@ const page = () => {
 
           <h4>Author - 09/04/2024</h4>
 
-          <Fade cascade damping={0.05} triggerOnce>
+          <Fade cascade damping={0.01} triggerOnce>
             <p>
               Rajasthan, the land of kings, is adorned with majestic forts and
               opulent palaces that narrate tales of valor, romance, and

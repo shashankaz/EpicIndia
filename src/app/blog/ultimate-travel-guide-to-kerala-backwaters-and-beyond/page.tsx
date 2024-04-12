@@ -27,7 +27,7 @@ const page = () => {
 
           <h4>Author - 09/04/2024</h4>
 
-          <Fade cascade damping={0.05} triggerOnce>
+          <Fade cascade damping={0.01} triggerOnce>
             <p>
               Welcome to Kerala, a land of serene backwaters, lush greenery, and
               vibrant culture. Nestled in the southwestern corner of India,

@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <>
       <Hero />
-      <Fade cascade damping={0.05} triggerOnce>
+      <Fade cascade damping={0.01} triggerOnce>
         <Travel />
         <UsefulLinks />
         <Map />

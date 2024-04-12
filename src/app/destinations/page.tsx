@@ -26,7 +26,7 @@ const page = () => {
             Exploring India&apos;s Diverse and Enchanting Destinations{" "}
           </h1>
 
-          <Fade cascade damping={0.05} triggerOnce>
+          <Fade cascade damping={0.01} triggerOnce>
             <p>
               India, a country steeped in history, culture, and natural beauty,
               beckons travelers from around the globe to experience its myriad

@@ -25,7 +25,7 @@ const page = () => {
 
           <h4>Author - 09/04/2024</h4>
 
-          <Fade cascade damping={0.05} triggerOnce>
+          <Fade cascade damping={0.01} triggerOnce>
             <p>
               India, with its vast and varied landscapes, rich cultural
               heritage, and historical landmarks, is a traveler&apos;s paradise.
