@@ -33,11 +33,12 @@ const page = () => {
               beacon of spirituality, culture, and history. This ancient city,
               with its labyrinthine alleys, bustling ghats, and vibrant cultural
               scene, offers a journey like no other—a journey into the heart and
-              soul of India's spiritual heritage. Let's embark on a captivating
-              exploration of Varanasi, delving into its ancient temples,
-              spiritual essence, cultural richness, culinary delights, and
-              festive celebrations that weave together to create a tapestry of
-              experiences that linger in the memory long after the journey ends.
+              soul of India&apos;s spiritual heritage. Let&apos;s embark on a
+              captivating exploration of Varanasi, delving into its ancient
+              temples, spiritual essence, cultural richness, culinary delights,
+              and festive celebrations that weave together to create a tapestry
+              of experiences that linger in the memory long after the journey
+              ends.
             </p>
             <h1>Ancient Temples: Guardians of Faith and Heritage</h1>
             <p>
@@ -61,18 +62,18 @@ const page = () => {
               serene ambiance and spiritual chants create an atmosphere of
               tranquility and devotion.
             </p>
-            <h3>Durga Temple: Goddess' Grace</h3>
+            <h3>Durga Temple: Goddess&apos; Grace</h3>
             <p>
-              The Durga Temple, also known as the "Monkey Temple" for its
-              resident monkeys, is dedicated to Goddess Durga. Adorned with
-              colorful paintings and intricate carvings, this temple is a symbol
-              of feminine power and divine grace.
+              The Durga Temple, also known as the Monkey Temple for its resident
+              monkeys, is dedicated to Goddess Durga. Adorned with colorful
+              paintings and intricate carvings, this temple is a symbol of
+              feminine power and divine grace.
             </p>
             <h1>Ghats of Varanasi: A Symphony of Rituals and Spirituality</h1>
             <p>
-              Varanasi's ghats along the Ganges River are the lifeline of the
-              city, where spirituality and daily life converge in a harmonious
-              dance.
+              Varanasi&apos;s ghats along the Ganges River are the lifeline of
+              the city, where spirituality and daily life converge in a
+              harmonious dance.
             </p>
             <h3>Dashashwamedh Ghat: A Spectacle of Aarti</h3>
             <p>
@@ -95,12 +96,13 @@ const page = () => {
               place where cremation rituals are performed. It is believed that
               cremation at this ghat grants liberation from the cycle of birth
               and death, making it a site of spiritual culmination and
-              acceptance of life's transient nature.
+              acceptance of life&apos;s transient nature.
             </p>
             <h1>Spiritual Essence: A Journey Within</h1>
             <p>
-              Varanasi's essence lies not just in its physical landmarks but in
-              the spiritual energy that permeates every corner of the city.
+              Varanasi&apos;s essence lies not just in its physical landmarks
+              but in the spiritual energy that permeates every corner of the
+              city.
             </p>
             <h3>Boat Ride on the Ganges: Soulful Serenity</h3>
             <p>
@@ -108,7 +110,7 @@ const page = () => {
               unveils a mystical panorama. The soft glow of the rising sun, the
               rhythmic chants of prayers, and the reflections of ancient temples
               in the river create a soul-stirring experience that connects
-              travelers with the city's spiritual core.
+              travelers with the city&apos;s spiritual core.
             </p>
             <h3>Meditation and Yoga: Inner Awakening</h3>
             <p>
@@ -119,28 +121,29 @@ const page = () => {
             </p>
             <h1>Cultural Heritage: Tales of Tradition and Artistry</h1>
             <p>
-              Varanasi's cultural heritage is a tapestry woven with threads of
-              art, music, dance, and centuries-old traditions.
+              Varanasi&apos;s cultural heritage is a tapestry woven with threads
+              of art, music, dance, and centuries-old traditions.
             </p>
             <h3>Banaras Hindu University (BHU): Cradle of Knowledge</h3>
             <p>
-              BHU, one of India's premier educational institutions, is not just
-              a center of academic excellence but also a custodian of cultural
-              heritage. The Bharat Kala Bhavan Museum within BHU showcases a
-              vast collection of artifacts, paintings, and sculptures, offering
-              a glimpse into India's rich cultural legacy.
+              BHU, one of India&apos;s premier educational institutions, is not
+              just a center of academic excellence but also a custodian of
+              cultural heritage. The Bharat Kala Bhavan Museum within BHU
+              showcases a vast collection of artifacts, paintings, and
+              sculptures, offering a glimpse into India&apos;s rich cultural
+              legacy.
             </p>
             <h3>Silk Weaving Tradition: Banarasi Elegance</h3>
             <p>
               Varanasi is renowned for its exquisite Banarasi silk sarees,
               crafted with intricate designs and fine craftsmanship. Witnessing
               the art of silk weaving at local workshops is a testament to the
-              city's artistic prowess and heritage.
+              city&apos;s artistic prowess and heritage.
             </p>
             <h1>Culinary Delights: A Gastronomic Odyssey</h1>
             <p>
-              Varanasi's culinary scene is a sensory delight, blending flavors,
-              aromas, and traditions in every bite.
+              Varanasi&apos;s culinary scene is a sensory delight, blending
+              flavors, aromas, and traditions in every bite.
             </p>
             <h3>Street Food Delicacies: Flavors of Varanasi</h3>
             <p>
@@ -158,8 +161,9 @@ const page = () => {
             </p>
             <h1>Festivals and Celebrations: Vibrant Expressions of Culture</h1>
             <p>
-              Varanasi's calendar is dotted with festivals and celebrations that
-              showcase the city's cultural vibrancy and spiritual fervor.
+              Varanasi&apos;s calendar is dotted with festivals and celebrations
+              that showcase the city&apos;s cultural vibrancy and spiritual
+              fervor.
             </p>
             <h3>Dev Deepawali: Festival of Lights</h3>
             <p>
@@ -175,19 +179,19 @@ const page = () => {
               and participate in night-long rituals, adding to the spiritual
               aura of the city.
             </p>
-            <h1>Conclusion: Embracing Varanasi's Legacy</h1>
+            <h1>Conclusion: Embracing Varanasi&apos;s Legacy</h1>
             <p>
               In conclusion, Varanasi beckons travelers to embark on a
               transformative journey of spirituality, culture, and heritage.
               From ancient temples and vibrant ghats to culinary delights and
-              festive fervor, every facet of Varanasi's tapestry invites
+              festive fervor, every facet of Varanasi&apos;s tapestry invites
               exploration and discovery. As visitors immerse themselves in the
-              city's spiritual essence, partake in cultural experiences, and
-              savor its culinary delights, Varanasi leaves an indelible mark on
-              the soul—a testament to its timeless legacy as the spiritual and
-              cultural heart of Uttar Pradesh. Let Varanasi be your gateway to a
-              journey of enlightenment, inspiration, and profound connection
-              with India's rich heritage.
+              city&apos;s spiritual essence, partake in cultural experiences,
+              and savor its culinary delights, Varanasi leaves an indelible mark
+              on the soul—a testament to its timeless legacy as the spiritual
+              and cultural heart of Uttar Pradesh. Let Varanasi be your gateway
+              to a journey of enlightenment, inspiration, and profound
+              connection with India&apos;s rich heritage.
             </p>
           </Fade>
         </div>

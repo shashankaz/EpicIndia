@@ -23,16 +23,16 @@ const page = () => {
         <div id="main-destination">
           <h1 id="title-destination">
             Exploring the Tranquil Beauty of Kerala Backwaters: A Serene Escape
-            into Nature&#39;s Embrace
+            into Nature&apos;s Embrace
           </h1>
 
           <Fade cascade damping={0.01} triggerOnce>
             <p>
               Nestled along the southwestern coast of India, the Kerala
-              backwaters offer a serene and enchanting escape into nature&#39;s
+              backwaters offer a serene and enchanting escape into nature&apos;s
               embrace. With a network of interconnected canals, rivers, lakes,
               and inlets, this unique ecosystem is a haven of tranquility and
-              natural beauty. Let&#39;s embark on a journey to discover the
+              natural beauty. Let&apos;s embark on a journey to discover the
               mesmerizing allure of the Kerala backwaters, where time seems to
               stand still amidst lush greenery, serene waters, and traditional
               houseboats.
@@ -50,7 +50,7 @@ const page = () => {
               Vembanad Lake, the largest lake in Kerala, is the heart of the
               backwaters. Its expansive stretch of tranquil waters is dotted
               with numerous small islands, each with its own charm and beauty.
-              The lake is a vital part of Kerala&#39;s ecosystem, supporting a
+              The lake is a vital part of Kerala&apos;s ecosystem, supporting a
               rich diversity of flora and fauna.
             </p>
             <h3>Alleppey Backwaters</h3>
@@ -59,7 +59,7 @@ const page = () => {
               are famous for their scenic beauty and traditional houseboat
               cruises. These backwaters consist of a network of narrow canals,
               waterways, and lakes, offering a unique perspective of
-              Kerala&#39;s rural life and natural splendor.
+              Kerala&apos;s rural life and natural splendor.
             </p>
             <h1>Traditional Houseboat Experience</h1>
             <p>
@@ -71,7 +71,7 @@ const page = () => {
             <h3>Houseboat Cruises</h3>
             <p>
               Houseboat cruises in the Kerala backwaters provide a glimpse into
-              the region&#39;s traditional way of life. Visitors can relax on
+              the region&apos;s traditional way of life. Visitors can relax on
               the sundeck, savor delicious Kerala cuisine prepared onboard, and
               witness mesmerizing sunsets over the tranquil waters. The gentle
               sway of the houseboat and the rhythmic sounds of the water create
@@ -109,7 +109,7 @@ const page = () => {
             <h1>Cultural Encounters</h1>
             <p>
               Exploring the Kerala backwaters also offers insights into the
-              region&#39;s rich cultural heritage, traditional art forms, and
+              region&apos;s rich cultural heritage, traditional art forms, and
               vibrant communities.
             </p>
             <h3>Village Life</h3>
@@ -117,7 +117,7 @@ const page = () => {
               Cruising through the backwaters allows travelers to glimpse
               traditional Kerala village life. Local fishermen casting their
               nets, women washing clothes by the banks, and children playing
-              along the water&#39;s edge paint a picturesque scene of rural
+              along the water&apos;s edge paint a picturesque scene of rural
               Kerala.
             </p>
             <h3>Art and Craft</h3>
@@ -125,12 +125,12 @@ const page = () => {
               The backwaters region is known for its vibrant art and craft
               traditions. Visitors can witness skilled artisans creating
               intricate handicrafts like coir products, handloom textiles, and
-              wooden artifacts, showcasing Kerala&#39;s artistic prowess.
+              wooden artifacts, showcasing Kerala&apos;s artistic prowess.
             </p>
             <h1>Culinary Delights</h1>
             <p>
               No visit to the Kerala backwaters is complete without indulging in
-              the region&#39;s delectable cuisine, known for its use of fresh
+              the region&apos;s delectable cuisine, known for its use of fresh
               seafood and aromatic spices.
             </p>
             <h3>Seafood Delicacies</h3>
@@ -173,9 +173,9 @@ const page = () => {
               natural beauty, cultural heritage, and sustainable tourism
               experiences. From tranquil houseboat cruises to bird watching,
               culinary delights, and cultural encounters, the backwaters beckon
-              travelers seeking a serene escape into nature&#39;s embrace. As we
-              navigate these enchanting waterways, we not only discover the
-              beauty of Kerala&#39;s backwaters but also forge a deeper
+              travelers seeking a serene escape into nature&apos;s embrace. As
+              we navigate these enchanting waterways, we not only discover the
+              beauty of Kerala&apos;s backwaters but also forge a deeper
               connection with the rich tapestry of life that thrives along these
               tranquil shores.
             </p>

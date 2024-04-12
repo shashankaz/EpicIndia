@@ -28,32 +28,32 @@ const page = () => {
           <Fade cascade damping={0.01} triggerOnce>
             <p>
               Nestled amidst the towering peaks of the Himalayas, Leh Ladakh
-              stands as a testament to nature's unparalleled beauty and cultural
-              richness. Located in the union territory of Jammu and Kashmir,
-              this enchanting region is a haven for travelers seeking adventure,
-              spirituality, and a glimpse into ancient traditions. Let's embark
-              on a journey to explore the timeless allure of Leh Ladakh, where
-              majestic landscapes, vibrant monasteries, and warm hospitality
-              await.
+              stands as a testament to nature&apos;s unparalleled beauty and
+              cultural richness. Located in the union territory of Jammu and
+              Kashmir, this enchanting region is a haven for travelers seeking
+              adventure, spirituality, and a glimpse into ancient traditions.
+              Let&apos;s embark on a journey to explore the timeless allure of
+              Leh Ladakh, where majestic landscapes, vibrant monasteries, and
+              warm hospitality await.
             </p>
             <h1>Majestic Landscapes</h1>
             <p>
               Leh Ladakh is renowned for its breathtaking landscapes that
-              inspire awe and wonder in every traveler's heart.
+              inspire awe and wonder in every traveler&apos;s heart.
             </p>
             <h3>Himalayan Majesty</h3>
             <p>
               Surrounded by snow-capped peaks of the Himalayas, Leh Ladakh
               offers panoramic vistas that leave visitors speechless. From the
-              towering Stok Kangri to the majestic Nun Kun, the region's rugged
-              terrain is a paradise for trekkers and mountaineers.
+              towering Stok Kangri to the majestic Nun Kun, the region&apos;s
+              rugged terrain is a paradise for trekkers and mountaineers.
             </p>
             <h3>Pangong Lake: A Blue Jewel</h3>
             <p>
               One of the iconic attractions of Leh Ladakh is Pangong Lake, with
               its mesmerizing shades of blue that change with the sunlight. This
               high-altitude lake, spanning across India and Tibet, is a
-              photographer's delight and a serene spot for contemplation.
+              photographer&apos;s delight and a serene spot for contemplation.
             </p>
             <h3>Nubra Valley: Desert Beauty</h3>
             <p>
@@ -63,8 +63,9 @@ const page = () => {
             </p>
             <h1>Rich Cultural Heritage</h1>
             <p>
-              Leh Ladakh's cultural tapestry is woven with threads of ancient
-              traditions, vibrant festivals, and spiritual enlightenment.
+              Leh Ladakh&apos;s cultural tapestry is woven with threads of
+              ancient traditions, vibrant festivals, and spiritual
+              enlightenment.
             </p>
             <h3>Monastic Marvels</h3>
             <p>
@@ -107,8 +108,8 @@ const page = () => {
             </p>
             <h1>Spiritual Serenity</h1>
             <p>
-              Leh Ladakh's serene environment and spiritual heritage make it a
-              sought-after destination for introspection and inner peace.
+              Leh Ladakh&apos;s serene environment and spiritual heritage make
+              it a sought-after destination for introspection and inner peace.
             </p>
             <h3>Meditation and Retreats</h3>
             <p>
@@ -126,7 +127,7 @@ const page = () => {
             </p>
             <h1>Cultural Encounters</h1>
             <p>
-              Leh Ladakh's cultural diversity and warm hospitality create
+              Leh Ladakh&apos;s cultural diversity and warm hospitality create
               opportunities for meaningful cultural exchanges and interactions.
             </p>
             <h3>Ladakhi Lifestyle</h3>
@@ -143,20 +144,20 @@ const page = () => {
             </p>
             <h1>Culinary Delights</h1>
             <p>
-              Leh Ladakh's cuisine is a blend of Tibetan, Ladakhi, and Kashmiri
-              flavors, offering a delightful culinary journey.
+              Leh Ladakh&apos;s cuisine is a blend of Tibetan, Ladakhi, and
+              Kashmiri flavors, offering a delightful culinary journey.
             </p>
             <h3>Ladakhi Specialties</h3>
             <p>
               Indulge in Ladakhi specialties like Thukpa (noodle soup), Momos
               (dumplings), Skyu (a hearty stew), and Butter Tea, showcasing the
-              region's unique culinary heritage.
+              region&apos;s unique culinary heritage.
             </p>
             <h3>Apricot Delicacies</h3>
             <p>
               Savor traditional Apricot-based desserts, jams, dry fruits, and
-              beverages sourced from the region's abundant apricot orchards,
-              adding a sweet touch to your Leh Ladakh experience.
+              beverages sourced from the region&apos;s abundant apricot
+              orchards, adding a sweet touch to your Leh Ladakh experience.
             </p>
             <h1>Sustainable Tourism</h1>
             <p>
@@ -173,9 +174,9 @@ const page = () => {
             <p>
               Engage with local communities, support artisanal crafts, and
               contribute to responsible tourism practices that benefit the
-              livelihoods and cultural heritage of Leh Ladakh's residents.
+              livelihoods and cultural heritage of Leh Ladakh&apos;s residents.
             </p>
-            <h1>Conclusion: Embracing Leh Ladakh's Charms</h1>
+            <h1>Conclusion: Embracing Leh Ladakh&apos;s Charms</h1>
             <p>
               In conclusion, Leh Ladakh beckons travelers with its awe-inspiring
               landscapes, vibrant culture, and adventurous spirit. Whether

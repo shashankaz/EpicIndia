@@ -32,9 +32,10 @@ const page = () => {
               lush rainforests, and vibrant marine life. This archipelago, known
               for its untouched natural beauty and rich cultural heritage,
               offers a slice of paradise for those seeking tranquility,
-              adventure, and exploration. Let's embark on a virtual journey to
-              discover the enchanting allure of the Andaman and Nicobar Islands,
-              where every moment is a celebration of nature's magnificence.
+              adventure, and exploration. Let&apos;s embark on a virtual journey
+              to discover the enchanting allure of the Andaman and Nicobar
+              Islands, where every moment is a celebration of nature&apos;s
+              magnificence.
             </p>
             <h1>Azure Waters and Sandy Shores</h1>
             <p>
@@ -53,14 +54,14 @@ const page = () => {
               For adventure enthusiasts, Elephant Beach offers thrilling water
               sports like snorkeling and scuba diving. Explore vibrant coral
               reefs, encounter exotic marine life, and witness the underwater
-              wonders that make the Andaman Islands a diver's paradise.
+              wonders that make the Andaman Islands a diver&apos;s paradise.
             </p>
             <h3>Corbyn Cove Beach: Sunset Splendor</h3>
             <p>
               Corbyn Cove Beach near Port Blair is famed for its golden sands
               and mesmerizing sunsets. Stroll along the coastline, bask in the
-              sun's warmth, or indulge in water activities like swimming and jet
-              skiing, surrounded by scenic beauty.
+              sun&apos;s warmth, or indulge in water activities like swimming
+              and jet skiing, surrounded by scenic beauty.
             </p>
             <h1>Lush Rainforests and Exotic Wildlife</h1>
             <p>
@@ -70,14 +71,14 @@ const page = () => {
             <h3>Baratang Island: Mangrove Ecosystem</h3>
             <p>
               Explore the mangrove creeks and limestone caves of Baratang
-              Island, where nature's marvels unfold at every turn. Witness the
-              unique phenomenon of mud volcanoes and encounter indigenous tribes
-              like the Jarawa, preserving ancient traditions amidst a pristine
-              environment.
+              Island, where nature&apos;s marvels unfold at every turn. Witness
+              the unique phenomenon of mud volcanoes and encounter indigenous
+              tribes like the Jarawa, preserving ancient traditions amidst a
+              pristine environment.
             </p>
-            <h3>Jungle Trekking: Nature's Trail</h3>
+            <h3>Jungle Trekking: Nature&apos;s Trail</h3>
             <p>
-              Embark on jungle treks through the islands' verdant forests,
+              Embark on jungle treks through the islands&apos; verdant forests,
               discovering hidden waterfalls, endemic flora, and elusive
               wildlife. Keep an eye out for rare species like the Andaman wild
               pig, Nicobar megapode, and the iconic Andaman horseshoe crab.
@@ -98,17 +99,18 @@ const page = () => {
             <h3>Anthropological Museum: Heritage Insights</h3>
             <p>
               Visit the Anthropological Museum in Port Blair to delve into the
-              islands' indigenous cultures and learn about the various tribes,
-              their traditions, crafts, and lifestyles. The museum's exhibits
-              offer a glimpse into the diverse cultural heritage of the region.
+              islands&apos; indigenous cultures and learn about the various
+              tribes, their traditions, crafts, and lifestyles. The
+              museum&apos;s exhibits offer a glimpse into the diverse cultural
+              heritage of the region.
             </p>
             <h3>Cellular Jail: Symbol of Freedom Struggle</h3>
             <p>
               Step back in time at the Cellular Jail, a poignant reminder of
-              India's freedom struggle. The jail's history and exhibits narrate
-              the tales of brave freedom fighters who endured hardships for the
-              nation's independence, making it a place of reverence and
-              reflection.
+              India&apos;s freedom struggle. The jail&apos;s history and
+              exhibits narrate the tales of brave freedom fighters who endured
+              hardships for the nation&apos;s independence, making it a place of
+              reverence and reflection.
             </p>
             <h1>Culinary Delights and Local Cuisine</h1>
             <p>
@@ -120,14 +122,14 @@ const page = () => {
             <p>
               Savor fresh seafood delicacies like grilled fish, lobster curry,
               crab masala, and prawn fry, prepared with aromatic spices and
-              coconut-based gravies. The islands' coastal bounty adds a
+              coconut-based gravies. The islands&apos; coastal bounty adds a
               delectable touch to every meal.
             </p>
             <h3>Local Beverages</h3>
             <p>
               Quench your thirst with refreshing beverages like coconut water,
               sugarcane juice, and the famous Nicobar coffee, known for its rich
-              flavor and aroma. Embrace the island's laid-back vibe while
+              flavor and aroma. Embrace the island&apos;s laid-back vibe while
               enjoying these tropical treats.
             </p>
             <h1>Marine Wonders and Diving Experiences</h1>
@@ -140,8 +142,8 @@ const page = () => {
               Explore the underwater marvels of Havelock Island, where coral
               reefs, colorful fish, sea turtles, and reef sharks create a
               mesmerizing aquatic world. Dive sites like Elephant Beach,
-              Barracuda City, and Johnny's Gorge offer thrilling experiences for
-              divers of all levels.
+              Barracuda City, and Johnny&apos;s Gorge offer thrilling
+              experiences for divers of all levels.
             </p>
             <h3>Snorkeling Spots</h3>
             <p>
@@ -167,8 +169,8 @@ const page = () => {
             <p>
               Participate in turtle conservation programs and witness the
               nesting and hatching of endangered sea turtles on secluded
-              beaches. The islands' efforts in turtle conservation contribute to
-              global biodiversity conservation efforts.
+              beaches. The islands&apos; efforts in turtle conservation
+              contribute to global biodiversity conservation efforts.
             </p>
             <h1>Conclusion: A Tropical Retreat</h1>
             <p>
@@ -179,7 +181,7 @@ const page = () => {
               or cultural insights into indigenous traditions, these islands
               promise a journey of discovery and delight. Let the Andaman and
               Nicobar Islands be your escape to a world of wonder, where every
-              moment is a celebration of nature's bounty and the spirit of
+              moment is a celebration of nature&apos;s bounty and the spirit of
               exploration.
             </p>
           </Fade>

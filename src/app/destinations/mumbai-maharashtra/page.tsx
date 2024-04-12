@@ -27,20 +27,20 @@ const page = () => {
 
           <Fade cascade damping={0.01} triggerOnce>
             <p>
-              Mumbai, often referred to as the "City of Dreams," pulsates with
+              Mumbai, often referred to as the City of Dreams, pulsates with
               energy, diversity, and a rich tapestry of cultures. As the capital
               city of Maharashtra, Mumbai stands as a beacon of opportunity,
               creativity, and resilience. From bustling streets to iconic
-              landmarks, let's delve into the essence of Mumbai, exploring its
-              vibrant neighborhoods, historical treasures, culinary delights,
-              and the spirit that makes it one of India's most dynamic
-              destinations.
+              landmarks, let&apos;s delve into the essence of Mumbai, exploring
+              its vibrant neighborhoods, historical treasures, culinary
+              delights, and the spirit that makes it one of India&apos;s most
+              dynamic destinations.
             </p>
             <h1>Vibrant Neighborhoods: A Melting Pot of Cultures</h1>
             <p>
-              Mumbai's neighborhoods are a kaleidoscope of cultures, traditions,
-              and lifestyles, each offering a unique glimpse into the city's
-              vibrant soul.
+              Mumbai&apos;s neighborhoods are a kaleidoscope of cultures,
+              traditions, and lifestyles, each offering a unique glimpse into
+              the city&apos;s vibrant soul.
             </p>
             <h3>Colaba: Gateway to Heritage</h3>
             <p>
@@ -61,11 +61,11 @@ const page = () => {
               The Fort area is a treasure trove of colonial architecture,
               including the majestic Chhatrapati Shivaji Maharaj Terminus (CST)
               and the heritage buildings along Horniman Circle. Walking through
-              Fort is like stepping back in time to Mumbai's colonial era.
+              Fort is like stepping back in time to Mumbai&apos;s colonial era.
             </p>
             <h1>Historical Treasures: Echoes of the Past</h1>
             <p>
-              Mumbai's history is etched in its monuments, museums, and
+              Mumbai&apos;s history is etched in its monuments, museums, and
               landmarks that narrate tales of bygone eras.
             </p>
             <h3>
@@ -75,7 +75,7 @@ const page = () => {
             <p>
               This museum is a repository of art, history, and culture, housing
               a diverse collection of artifacts, paintings, and sculptures that
-              showcase India's rich heritage.
+              showcase India&apos;s rich heritage.
             </p>
             <h3>Elephanta Caves</h3>
             <p>
@@ -86,21 +86,21 @@ const page = () => {
             <h3>Haji Ali Dargah</h3>
             <p>
               The Haji Ali Dargah, located on an islet off the coast of Worli,
-              is a revered Islamic shrine and a symbol of Mumbai's religious
-              harmony.
+              is a revered Islamic shrine and a symbol of Mumbai&apos;s
+              religious harmony.
             </p>
             <h1>Culinary Delights: Flavors of Mumbai</h1>
             <p>
-              Mumbai's culinary scene is a delightful fusion of street food,
-              coastal flavors, and global cuisines that tantalize the taste
-              buds.
+              Mumbai&apos;s culinary scene is a delightful fusion of street
+              food, coastal flavors, and global cuisines that tantalize the
+              taste buds.
             </p>
             <h3>Street Food Extravaganza</h3>
             <p>
-              From pav bhaji and vada pav to bhel puri and sev puri, Mumbai's
-              street food stalls offer a gastronomic adventure. Don't miss the
-              iconic cutting chai and delicious kebabs at Mohammad Ali Road
-              during Ramadan.
+              From pav bhaji and vada pav to bhel puri and sev puri,
+              Mumbai&apos;s street food stalls offer a gastronomic adventure.
+              Don&apos;t miss the iconic cutting chai and delicious kebabs at
+              Mohammad Ali Road during Ramadan.
             </p>
             <h3>Coastal Delicacies</h3>
             <p>
@@ -115,14 +115,14 @@ const page = () => {
               and other global cuisines. The Bandra-Kurla Complex (BKC) area is
               known for its upscale dining experiences.
             </p>
-            <h1>Iconic Landmarks: Symbols of Mumbai's Identity</h1>
+            <h1>Iconic Landmarks: Symbols of Mumbai&apos;s Identity</h1>
             <p>
               Mumbai is dotted with iconic landmarks that define its skyline and
               identity.
             </p>
             <h3>Marine Drive</h3>
             <p>
-              The sweeping arc of Marine Drive, also known as the Queen's
+              The sweeping arc of Marine Drive, also known as the Queen&apos;s
               Necklace, offers stunning views of the Arabian Sea and is a
               favorite spot for evening strolls and leisurely moments.
             </p>
@@ -134,10 +134,10 @@ const page = () => {
             </p>
             <h3>Bollywood: The Entertainment Capital</h3>
             <p>
-              Mumbai's connection with Bollywood, the Hindi film industry, is
-              legendary. Visit Film City for a glimpse into the magic of Indian
-              cinema or catch a movie at one of the iconic theaters like Liberty
-              or Regal.
+              Mumbai&apos;s connection with Bollywood, the Hindi film industry,
+              is legendary. Visit Film City for a glimpse into the magic of
+              Indian cinema or catch a movie at one of the iconic theaters like
+              Liberty or Regal.
             </p>
             <h1>Spirit of Mumbai: Resilience and Dynamism</h1>
             <p>
@@ -150,7 +150,7 @@ const page = () => {
               The dabbawalas of Mumbai, known for their efficient lunchbox
               delivery system, and the lifeline of the city—the local
               trains—symbolize the hard work, efficiency, and interconnectedness
-              of Mumbai's residents.
+              of Mumbai&apos;s residents.
             </p>
             <h3>Festivals and Celebrations</h3>
             <p>
@@ -159,17 +159,17 @@ const page = () => {
               Christmas, Mumbai celebrates diversity and festivals with fervor
               and joy.
             </p>
-            <h1>Conclusion: Embracing Mumbai's Diversity</h1>
+            <h1>Conclusion: Embracing Mumbai&apos;s Diversity</h1>
             <p>
               In conclusion, Mumbai is a city of contrasts and diversity—a
               melting pot where dreams are born, cultures converge, and life
-              pulsates with energy. Whether you're exploring its historical
+              pulsates with energy. Whether you&apos;re exploring its historical
               landmarks, savoring its culinary delights, or experiencing the
               spirit of resilience, Mumbai welcomes you with open arms and
               leaves an indelible mark on your heart. As the vibrant heartbeat
               of Maharashtra, Mumbai continues to inspire, entertain, and
               enchant visitors from around the world, embodying the spirit of
-              India's economic capital and cultural kaleidoscope.
+              India&apos;s economic capital and cultural kaleidoscope.
             </p>
           </Fade>
         </div>

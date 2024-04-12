@@ -32,16 +32,16 @@ const page = () => {
               and historical grandeur. Spread across acres of lush forests,
               rocky hills, and ancient ruins, Ranthambore beckons adventurers,
               nature enthusiasts, and wildlife photographers to witness the
-              magic of the wild. Let's embark on a virtual safari through
-              Ranthambore's wilderness, exploring its flora, fauna, conservation
-              efforts, and the captivating tales that echo through its ancient
-              landscapes.
+              magic of the wild. Let&apos;s embark on a virtual safari through
+              Ranthambore&apos;s wilderness, exploring its flora, fauna,
+              conservation efforts, and the captivating tales that echo through
+              its ancient landscapes.
             </p>
             <h1>Flora and Fauna: A Symphony of Biodiversity</h1>
             <p>
-              Ranthambore's ecosystem is a harmonious blend of diverse flora and
-              fauna, creating a thriving habitat for a range of wildlife
-              species.
+              Ranthambore&apos;s ecosystem is a harmonious blend of diverse
+              flora and fauna, creating a thriving habitat for a range of
+              wildlife species.
             </p>
             <h3>Wildlife Marvels</h3>
             <p>
@@ -53,34 +53,34 @@ const page = () => {
             </p>
             <h3>Lush Vegetation</h3>
             <p>
-              The park's landscape is adorned with dry deciduous forests, open
-              grasslands, and water bodies like lakes and streams. Dhok trees,
-              banyans, peepals, and various shrubs provide shelter and
-              sustenance to the park's wildlife, creating a picturesque setting
-              for nature enthusiasts.
+              The park&apos;s landscape is adorned with dry deciduous forests,
+              open grasslands, and water bodies like lakes and streams. Dhok
+              trees, banyans, peepals, and various shrubs provide shelter and
+              sustenance to the park&apos;s wildlife, creating a picturesque
+              setting for nature enthusiasts.
             </p>
-            <h1>Conservation Efforts: Protecting Nature's Heritage</h1>
+            <h1>Conservation Efforts: Protecting Nature&apos;s Heritage</h1>
             <p>
               Ranthambore National Park is not just a sanctuary but also a
               testament to successful conservation initiatives and efforts to
-              preserve India's natural heritage.
+              preserve India&apos;s natural heritage.
             </p>
             <h3>Tiger Conservation</h3>
             <p>
               With a focus on tiger conservation, Ranthambore has implemented
               stringent measures to protect these endangered species.
               Conservation programs, anti-poaching patrols, and habitat
-              restoration projects have contributed to the park's growing tiger
-              population, offering hope for the future of these iconic
+              restoration projects have contributed to the park&apos;s growing
+              tiger population, offering hope for the future of these iconic
               predators.
             </p>
             <h3>Community Involvement</h3>
             <p>
-              Local communities play a vital role in Ranthambore's conservation
-              efforts. Through sustainable tourism practices, community
-              engagement programs, and awareness campaigns, the park strives to
-              foster a harmonious relationship between wildlife conservation and
-              local livelihoods.
+              Local communities play a vital role in Ranthambore&apos;s
+              conservation efforts. Through sustainable tourism practices,
+              community engagement programs, and awareness campaigns, the park
+              strives to foster a harmonious relationship between wildlife
+              conservation and local livelihoods.
             </p>
             <h1>Historical Heritage: Tales of Royalty and Ruins</h1>
             <p>
@@ -92,7 +92,8 @@ const page = () => {
               Perched atop a hill within the park, Ranthambore Fort is a symbol
               of Rajput grandeur and architectural prowess. Dating back to the
               10th century, the fort offers panoramic views of the surrounding
-              wilderness and serves as a reminder of the region's rich heritage.
+              wilderness and serves as a reminder of the region&apos;s rich
+              heritage.
             </p>
             <h3>Ancient Temples</h3>
             <p>
@@ -100,7 +101,7 @@ const page = () => {
               Trinetra Ganesh Temple and the Jogi Mahal, adding a spiritual
               dimension to the wildlife experience. These temples, adorned with
               intricate carvings and serene surroundings, attract pilgrims and
-              tourists seeking cultural insights amidst nature's bounty.
+              tourists seeking cultural insights amidst nature&apos;s bounty.
             </p>
             <h1>Wildlife Safaris: Thrills of the Jungle</h1>
             <p>
@@ -109,8 +110,8 @@ const page = () => {
             </p>
             <h3>Jeep Safaris</h3>
             <p>
-              Embark on a jeep safari through Ranthambore's trails, guided by
-              experienced naturalists and trackers who unravel the secrets of
+              Embark on a jeep safari through Ranthambore&apos;s trails, guided
+              by experienced naturalists and trackers who unravel the secrets of
               the jungle. The thrill of spotting a tiger in the wild or
               witnessing a leopard stealthily crossing your path is an
               experience that stays etched in memory.
@@ -118,9 +119,9 @@ const page = () => {
             <h3>Canter Safaris</h3>
             <p>
               For larger groups, canter safaris provide a panoramic view of the
-              park's landscapes and wildlife. These open vehicles offer a unique
-              perspective, allowing travelers to soak in the sights and sounds
-              of Ranthambore's wilderness.
+              park&apos;s landscapes and wildlife. These open vehicles offer a
+              unique perspective, allowing travelers to soak in the sights and
+              sounds of Ranthambore&apos;s wilderness.
             </p>
             <h1>Photography Paradise: Capturing Wildlife Moments</h1>
             <p>
@@ -137,20 +138,21 @@ const page = () => {
             </p>
             <h3>Birdwatching Extravaganza</h3>
             <p>
-              Ranthambore's avian diversity is a delight for birdwatchers. Spot
-              colorful kingfishers, majestic eagles, graceful cranes, and
-              migratory birds that add a splash of color to the park's canvas.
+              Ranthambore&apos;s avian diversity is a delight for birdwatchers.
+              Spot colorful kingfishers, majestic eagles, graceful cranes, and
+              migratory birds that add a splash of color to the park&apos;s
+              canvas.
             </p>
-            <h1>Conclusion: Preserving Nature's Treasure</h1>
+            <h1>Conclusion: Preserving Nature&apos;s Treasure</h1>
             <p>
               In conclusion, Ranthambore National Park stands as a testament to
               the harmonious coexistence of wildlife, history, and conservation.
-              As visitors immerse themselves in the park's wilderness, they not
-              only witness nature's wonders but also contribute to its
-              preservation. Ranthambore's allure lies in its untamed beauty,
-              captivating wildlife, and the enduring legacy of conservation
-              efforts that ensure future generations can continue to marvel at
-              this natural treasure trove.
+              As visitors immerse themselves in the park&apos;s wilderness, they
+              not only witness nature&apos;s wonders but also contribute to its
+              preservation. Ranthambore&apos;s allure lies in its untamed
+              beauty, captivating wildlife, and the enduring legacy of
+              conservation efforts that ensure future generations can continue
+              to marvel at this natural treasure trove.
             </p>
           </Fade>
         </div>
