@@ -1,5 +1,4 @@
 import React, { useRef, useState } from "react";
-import Image from "next/image";
 import emailjs from "@emailjs/browser";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
@@ -92,18 +91,6 @@ const Contact: React.FC<ContactProps> = () => {
               <ToastContainer />
             </div>
           </form>
-        </div>
-        <div id="banner">
-          <div id="wrap">
-            <Image
-              id="taj"
-              src=""
-              width={1000}
-              height={1000}
-              alt="Picture of The Taj Mahal"
-              quality={100}
-            />
-          </div>
         </div>
       </div>
     </div>
