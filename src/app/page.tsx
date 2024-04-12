@@ -7,7 +7,6 @@ import UsefulLinks from "@/components/UsefulLinks";
 import Travel from "@/components/Travel";
 import Map from "@/components/Map";
 import Blog from "@/components/Blog";
-import YouTube from "@/components/YouTube";
 import FAQ from "@/components/FAQ";
 import Contact from "@/components/Contact";
 import { Fade } from "react-awesome-reveal";
@@ -23,7 +22,6 @@ export default function Home() {
         <Season />
         <Trip />
         <Blog />
-        <YouTube />
         {/* <FAQ /> */}
         <Contact />
       </Fade>

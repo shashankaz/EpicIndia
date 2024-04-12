@@ -12,7 +12,6 @@ const Hero = () => {
           width={1000}
           height={1000}
           alt="Picture of India Gate in New Delhi, India"
-          style={{ objectFit: "contain" }}
           quality={100}
         />
       </div>
