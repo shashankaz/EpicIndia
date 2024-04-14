@@ -29,12 +29,6 @@
   object-fit: cover;
 }
 
-#container-trip #taj:hover {
-  cursor: pointer;
-  transform: scale(1.1);
-  transition: all 0.5s ease;
-}
-
 #container-trip button {
   display: flex;
   align-items: center;

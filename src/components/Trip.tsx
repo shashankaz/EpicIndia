@@ -27,6 +27,8 @@ const Trip = () => {
               />
             </div>
           </div>
+        </Link>
+        <Link href={"/book-your-trip"}>
           <button>
             Book your Trip to India
             <div id="arrow">
