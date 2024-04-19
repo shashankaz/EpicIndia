@@ -6,11 +6,20 @@ import { FaFacebook } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import { FaInstagram } from "react-icons/fa";
 import { FaYoutube } from "react-icons/fa";
+import { IoIosArrowUp } from "react-icons/io";
 
 const Footer = () => {
+  const top = () => {
+    window.scrollTo(0, 0);
+  };
+
   return (
     <div id="container">
       <div>
+        <div id="part1">
+          <IoIosArrowUp />
+          <button onClick={top}>Back to top</button>
+        </div>
         <div id="part2">
           <div id="content">
             <ul>
@@ -69,7 +78,9 @@ const Footer = () => {
                 <Link href={"/privacy"}>Privacy Policy</Link>
               </li>
               <li>
-                <Link href={"/sustainability-initiatives"}>Sustainability Initiatives</Link>
+                <Link href={"/sustainability-initiatives"}>
+                  Sustainability Initiatives
+                </Link>
               </li>
             </ul>
           </div>

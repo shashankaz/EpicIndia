@@ -6,6 +6,9 @@
 
 #part1 {
   padding-bottom: 40px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
 }
 
 #part1 button {
